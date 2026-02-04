@@ -25,3 +25,6 @@ To get started making a contribution please do the following:
 - Wait for us to check it out
 
   Thank you.
+git clone https://github.com/NullArray/AutoSploit.git
+cd Autosploit/Docker
+docker-compose run --rm autosploit
